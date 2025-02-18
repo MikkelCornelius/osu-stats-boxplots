@@ -1,0 +1,2 @@
+client ID = 12345
+client secret = abc
