@@ -8,8 +8,11 @@ You might need to give the script permission to run before it can open, but afte
 To request the data you need to have an API key. If you have never used the osu!api before you can get one in your osu! account settings page under the OAuth section (You need apiv2. The key under the Legacy API section is not good enough). Write a random name and a random URL, for an examble: `http://localhost:XXXX/` where you replace “XXXX” with a random 4 digit number greater than 1024. Here you will get your client ID and client secret.
 
 The map list need to be structured in three lines:
+
 Round
+
 comma seperated map slots
+
 comma seperated maps
 
 The MP links can be either the IDs or the full url.
